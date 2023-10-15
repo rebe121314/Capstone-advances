@@ -1,0 +1,10 @@
+molecule_chembl_id,canonical_smiles,standard_value,standard_units,pchembl_value,ligand_efficiency
+CHEMBL5073811,COc1cc2cc(C#N)ccc2c(OC)c1Oc1cc(N)nc(Nc2ccc(C#N)cc2)n1,60.0,nM,7.22,"{'bei': '16.47', 'le': '0.30', 'lle': '2.71', 'sei': '5.19'}"
+CHEMBL5073127,CCNc1cc(Oc2c(OC)cc3cc(C#N)ccc3c2OC)nc(Nc2ccc(C#N)cc2)n1,430.0,nM,6.37,"{'bei': '13.65', 'le': '0.25', 'lle': '1.01', 'sei': '5.09'}"
+CHEMBL5085211,COc1cc2cc(C#N)ccc2c(OC)c1Oc1cc(N2CCC(O)C2)nc(Nc2ccc(C#N)cc2)n1,450.0,nM,6.35,"{'bei': '12.48', 'le': '0.23', 'lle': '1.85', 'sei': '4.65'}"
+CHEMBL57,Cc1ccnc2c1NC(=O)c1cccnc1N2C1CC1,357000.0,nM,,
+CHEMBL308954,Cc1cc(C#N)cc(C)c1Oc1nc(Nc2ccc(C#N)cc2)nc(N)c1Br,10.0,nM,8.00,"{'bei': '18.38', 'le': '0.39', 'lle': '3.28', 'sei': '6.63'}"
+CHEMBL223228,O=C1Nc2ccc(Cl)cc2[C@@](C#CC2CC2)(C(F)(F)F)O1,120.0,nM,6.92,"{'bei': '21.92', 'le': '0.45', 'lle': '2.85', 'sei': '18.06'}"
+CHEMBL4578515,C=CC(=O)N(C)c1cc(Oc2ccccc2OCCn2ccc(=O)[nH]c2=O)c(C)c2cc(C#N)ccc12,400.0,nM,6.40,"{'bei': '12.89', 'le': '0.24', 'lle': '2.51', 'sei': '5.45'}"
+CHEMBL4553027,Cc1c(Oc2ccccc2OCCn2ccc(=O)[nH]c2=O)cc(N(C)C(=O)CCl)c2ccc(C#N)cc12,480.0,nM,6.32,"{'bei': '12.18', 'le': '0.23', 'lle': '2.38', 'sei': '5.38'}"
+CHEMBL550937,CC(C)c1ccc(O)c(=O)c(O)c1,250.0,nM,6.60,"{'bei': '36.64', 'le': '0.69', 'lle': '5.02', 'sei': '11.48'}"
